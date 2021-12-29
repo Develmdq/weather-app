@@ -7,6 +7,7 @@
 The goal of this project is to provide a solution for Paula in her work of selling ice-creams near to the coasts, so she can consult the weather in these cities in advance, therefore she can work in a productive way and increment her sales
 
 ![Screenshot_20211228-223120_WeatherApp](https://user-images.githubusercontent.com/62628508/147620938-e4dd18ed-ca7d-46d1-a015-5f3b970419c0.jpg)
+![Screenshot_20211228-231637_WeatherApp](https://user-images.githubusercontent.com/62628508/147621202-6805853f-3e7c-4ef5-a16d-a204838f9ebf.jpg)
 ![Screenshot_20211125-211556_Expo Go](https://user-images.githubusercontent.com/62628508/147620955-900608f8-5ae8-4904-b4f5-cfa327de6043.jpg)
 ![Screenshot_20211228-223234_WeatherApp](https://user-images.githubusercontent.com/62628508/147620962-4d19513a-c1c8-446d-8d5a-d4fef2841d2a.jpg)
 
