@@ -5,7 +5,10 @@
 ### Project Description
 
 The goal of this project is to provide a solution for Paula in her work of selling ice-creams near to the coasts, so she can consult the weather in these cities in advance, therefore she can work in a productive way and increment her sales
-![WhatsApp Image 2021-12-08 at 17 15 18](https://user-images.githubusercontent.com/62628508/147618325-7509691b-6074-4f75-8338-005c70ac5fea.jpeg)
+
+![img001](https://user-images.githubusercontent.com/62628508/147618834-258eb588-4a73-494c-8791-a313c015369f.jpg)
+![img002](https://user-images.githubusercontent.com/62628508/147618842-b99c83f6-4668-4af7-b7ed-f953bb88af89.jpg)
+![img003](https://user-images.githubusercontent.com/62628508/147618853-5496ca73-87c9-4ff8-92b2-a53d18968779.jpg)
 
 ### Figma Design
 
