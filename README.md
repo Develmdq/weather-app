@@ -6,9 +6,9 @@
 
 The goal of this project is to provide a solution for Paula in her work of selling ice-creams near to the coasts, so she can consult the weather in these cities in advance, therefore she can work in a productive way and increment her sales
 
-![img001](https://user-images.githubusercontent.com/62628508/147618834-258eb588-4a73-494c-8791-a313c015369f.jpg)
-![img002](https://user-images.githubusercontent.com/62628508/147618842-b99c83f6-4668-4af7-b7ed-f953bb88af89.jpg)
-![img003](https://user-images.githubusercontent.com/62628508/147618853-5496ca73-87c9-4ff8-92b2-a53d18968779.jpg)
+![Screenshot_20211228-223120_WeatherApp](https://user-images.githubusercontent.com/62628508/147620938-e4dd18ed-ca7d-46d1-a015-5f3b970419c0.jpg)
+![Screenshot_20211125-211556_Expo Go](https://user-images.githubusercontent.com/62628508/147620955-900608f8-5ae8-4904-b4f5-cfa327de6043.jpg)
+![Screenshot_20211228-223234_WeatherApp](https://user-images.githubusercontent.com/62628508/147620962-4d19513a-c1c8-446d-8d5a-d4fef2841d2a.jpg)
 
 ### Figma Design
 
